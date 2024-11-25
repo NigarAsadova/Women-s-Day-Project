@@ -1,0 +1,87 @@
+*{
+    color: #6d645a;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    margin: 0;
+}
+main{
+    background-color: #f6f2ed;
+    padding: 20px;
+}
+.all{
+    background-color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.head-text{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    color: #6d645a;
+    padding:20px 20px 0;
+    font-size: 35px;
+    margin: 0;
+}
+
+.navbar{
+    width: 40%;
+    float: inline-end;
+    padding: 20px;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    color: #6d645a;
+}
+
+/* img and letter part */
+.img-and-letter img{
+    padding-left: 20px;
+}
+.letter{
+    padding: 30px 20px 0;
+}
+.letter h1{
+    font-size: 40px;
+    margin: 0;
+}
+.content-of-letter{
+    padding: 35px 0;
+    font-size: 16px;
+}
+.contacts{
+    padding: 20px;
+}
+.box-of-contacts{
+    border: 1px solid #6d645a;
+    border-radius: 20px;
+}
+/* Logo */
+.logos img{
+    width: 32px;
+    height: 32px;
+}
+.logos{
+    text-align: center;
+    padding: 30px 20px;
+}
+
+/* texts below the logos */
+
+.content-of-contacts ul{
+    list-style-type: none;
+    padding: 0;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 12px;
+}
+.content-of-contacts li{
+    padding: 0 10px 20px;
+}
+.content-of-contacts{
+    text-align: center;
+}
+/* Footer */
+footer{
+    text-align: center;
+}
